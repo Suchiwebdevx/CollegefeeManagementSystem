@@ -51,10 +51,10 @@ Before running the project, make sure you have installed:
 
 ## ⚙️ Installation and Setup
 
-### 1. Clone the Repository
+### 1.Repository
 
 
-git clone <your-repository-url>
+git<https://github.com/Suchiwebdevx/CollegefeeManagementSystem>
 
 
 Navigate to the project directory:
@@ -122,8 +122,6 @@ CollegeFeeManagementSystem/
 
 The main objective of this project is to develop a desktop-based college fee management application that combines Java GUI programming with JDBC and MySQL database operations.
 
-(https://github.com/)
-
-
+(https://github.com/Suchiwebdevx)
 
 ⭐ If you find this project useful, consider giving the repository a star.
