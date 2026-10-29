@@ -53,8 +53,7 @@ Before running the project, make sure you have installed:
 
 ### 1.Repository
 
-
-git<https://github.com/Suchiwebdevx/CollegefeeManagementSystem>
+<https://github.com/Suchiwebdevx/CollegefeeManagementSystem>
 
 
 Navigate to the project directory:
