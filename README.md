@@ -98,25 +98,6 @@ Add the MySQL Connector/J dependency or JAR file to your project's classpath.
 3. Ensure the MySQL server is running.
 4. Build and run the main Java class.
 
-##  Project Structure
-
-The project may be organized as follows:
-
-Structure
-CollegeFeeManagementSystem/
-├── src/
-│   ├── frontend/
-│   │   └── Java Swing/AWT screens
-│   ├── backend/
-│   │   └── Application logic
-│   └── database/
-│       └── Database connection
-├── lib/
-│   └── mysql-connector-j.jar
-├── database/
-│   └── schema.sql
-└── README.md
-
 ## Project Objective
 
 The main objective of this project is to develop a desktop-based college fee management application that combines Java GUI programming with JDBC and MySQL database operations.
